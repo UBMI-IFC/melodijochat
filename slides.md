@@ -17,7 +17,7 @@ class: text-center
 transition: slide-left
 mdc: true
 hideInToc: true
-background: /melodijochat/backgrounds/escuchando_a20.png # https://cover.sli.dev
+background: https://ubmi-ifc.github.io/melodijochat/backgrounds/escuchando_a20.png 
 backgroundSize: contain
 ---
 
@@ -425,8 +425,7 @@ layout: section
 
 
 ---
-layout: image-right
-image: /melodijochat/recunam.png
+layout: two-cols
 ---
 
 # La UNAM también.
@@ -436,6 +435,11 @@ En 2023 la UNAM insala un [Grupo de trabajo sobre IA generatiba](https://www.gac
 El mismo año se publica una [guía de recomendaciones](https://iagenedu.unam.mx/recomendaciones?fbclid=IwY2xjawK1FRVleHRuA2FlbQIxMQABHnK0PzgUh9ckNxB7kTUqJV1CNTGRcq02hjXn9uiHhB5k9Eep69f43ZGKdNZO_aem_sRDDfBl7rpMnP9_EcybTNw&sfnsn=scwspwa)
 para su uso en educación. 
 
+::right::
+
+<div style="display: flex; justify-content: center;">
+<img src="./recunam.png" width="320px"></img>
+</div>
 
 ---
 
