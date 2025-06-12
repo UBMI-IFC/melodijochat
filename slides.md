@@ -1,6 +1,5 @@
 ---
 theme: seriph
-background: /escuchando_a20.png # https://cover.sli.dev
 title: Me lo dijo chat
 author: acph
 info: |
@@ -18,6 +17,8 @@ class: text-center
 transition: slide-left
 mdc: true
 hideInToc: true
+background: /backgrounds/escuchando_a20.png # https://cover.sli.dev
+backgroundSize: contain
 ---
 
 <div grid="~ cols-2 gap-70%" m="t--3" >
