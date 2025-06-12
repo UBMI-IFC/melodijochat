@@ -17,7 +17,7 @@ class: text-center
 transition: slide-left
 mdc: true
 hideInToc: true
-background: https://ubmi-ifc.github.io/melodijochat/backgrounds/escuchando_a20.png 
+background: ./backgrounds/escuchando_a20.png 
 backgroundSize: contain
 ---
 
