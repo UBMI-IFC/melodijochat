@@ -17,7 +17,7 @@ class: text-center
 transition: slide-left
 mdc: true
 hideInToc: true
-background: /backgrounds/escuchando_a20.png # https://cover.sli.dev
+background: backgrounds\escuchando_a20.png # https://cover.sli.dev
 backgroundSize: contain
 ---
 
