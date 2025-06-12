@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: ./escuchando_a20.png # https://cover.sli.dev
+background: escuchando_a20.png # https://cover.sli.dev
 title: Me lo dijo chat
 author: acph
 info: |
