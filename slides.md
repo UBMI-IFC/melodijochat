@@ -17,7 +17,7 @@ class: text-center
 transition: slide-left
 mdc: true
 hideInToc: true
-background: ../backgrounds/escuchando_a20.png # https://cover.sli.dev
+background: /melodijochat/backgrounds/escuchando_a20.png # https://cover.sli.dev
 backgroundSize: contain
 ---
 
@@ -426,7 +426,7 @@ layout: section
 
 ---
 layout: image-right
-image: ./recunam.png
+image: /melodijochat/recunam.png
 ---
 
 # La UNAM también.
