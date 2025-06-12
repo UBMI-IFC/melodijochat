@@ -1,0 +1,120 @@
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text; /* For Safari and Chrome */
+  -moz-background-clip: text; /* For Firefox */
+  -webkit-text-fill-color: transparent; /* For Safari and Chrome */
+  -moz-text-fill-color: transparent; /* For Firefox */
+}
+
+h1 > code {
+  -webkit-text-fill-color: green; /* For Safari and Chrome */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+}
+
+
+.info-cards-container {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr); /* Creates 3 equal columns */
+     gap: 20px; /* Space between cards (adjust as needed) */
+   }
+
+   .info-card {
+     border: 1px solid #ccc;  /* Optional border for visual separation */
+     padding: 15px; /* Add some padding around the card content */
+     display: flex;  /* Use flexbox for image and text alignment */
+     flex-direction: column;
+   }
+
+   .card-image {
+     width: 100%;  /* Image takes full width of the card */
+     margin-bottom: 10px; /* Space between image and text */
+   }
+
+   .card-image img {
+     width: 100%;
+     height: auto;
+     object-fit: cover; /* Keeps aspect ratio and covers the area */
+   }
+
+   .card-text {
+      flex: 1;  /* Allows text to take up remaining vertical space */
+   }
+
+   .card-text h2 {
+      font-size: 1.5em;
+      margin-bottom: 0.5em;
+   }
+
+
+
+    .curve-wrapper {
+      width: 500px;
+      height: 250px;
+      position: relative;
+    }
+    .rainbow-text {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      font-size: 3rem;
+      font-weight: bold;
+      text-align: center;
+      background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: rainbow-shimmer 4s linear infinite;
+    }
+    svg text {
+      font-size: 3rem;
+      font-weight: bold;
+      fill: url(#rainbowGradient);
+    }
+    @keyframes rainbow-shimmer {
+      0% { background-position: 0% 50%; }
+      100% { background-position: 100% 50%; }
+    }
+
+
+/* Vertical cards */
+.card-container {
+    display: block;
+    padding: 20px;
+}
+
+.card {
+    background-color: AliceBlue;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    display: block;
+    position: relative;
+    padding: 10px;
+}
+
+.card-content {
+    display: inline-block;
+    margin-left: 100px; /* Adjusted: Adds space for the circle */
+}
+
+.circle {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.circle img {
+    max-width: 100%;
+    max-height: 100%;
+}
