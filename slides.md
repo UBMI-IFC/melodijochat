@@ -430,9 +430,9 @@ layout: two-cols
 
 # La UNAM también.
 
-En 2023 la UNAM insala un [Grupo de trabajo sobre IA generativa](https://www.gaceta.unam.mx/instalan-grupo-de-trabajo-sobre-la-inteligencia-artificial/).
+En 2023 la UNAM instaló un [Grupo de trabajo sobre IA generativa](https://www.gaceta.unam.mx/instalan-grupo-de-trabajo-sobre-la-inteligencia-artificial/).
 
-El mismo año se publica una [guía de recomendaciones](https://iagenedu.unam.mx/recomendaciones?fbclid=IwY2xjawK1FRVleHRuA2FlbQIxMQABHnK0PzgUh9ckNxB7kTUqJV1CNTGRcq02hjXn9uiHhB5k9Eep69f43ZGKdNZO_aem_sRDDfBl7rpMnP9_EcybTNw&sfnsn=scwspwa)
+El mismo año se publicó una [guía de recomendaciones](https://iagenedu.unam.mx/recomendaciones?fbclid=IwY2xjawK1FRVleHRuA2FlbQIxMQABHnK0PzgUh9ckNxB7kTUqJV1CNTGRcq02hjXn9uiHhB5k9Eep69f43ZGKdNZO_aem_sRDDfBl7rpMnP9_EcybTNw&sfnsn=scwspwa)
 para su uso en educación. 
 
 
